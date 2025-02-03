@@ -10,9 +10,9 @@ class Migration(migrations.Migration):
     ]
 
     operations = [
-        migrations.AddField(
-            model_name='staffrecords',
-            name='staff_salary',
-            field=models.FloatField(default=0.0),
-        ),
+        # migrations.AddField(
+        #     model_name='staffrecords',
+        #     name='staff_salary',
+        #     field=models.FloatField(default=0.0),
+        # ),
     ]

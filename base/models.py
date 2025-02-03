@@ -17,4 +17,6 @@ class StaffRecords(models.Model):
     
  
 
+class Staffs(models.Model):
+    pass
 
